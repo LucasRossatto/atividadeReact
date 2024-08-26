@@ -24,9 +24,9 @@ const Form = ({titulo, label1,label2,label3}) => {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    console.log(formState.nome);
-    console.log(formState.email);
-    console.log(formState.senha);
+    console.log("nome: ", formState.nome);
+    console.log("email: ", formState.email);
+    console.log("senha: ", formState.senha);
     setFormState({ ...initilForm });
   };
 
