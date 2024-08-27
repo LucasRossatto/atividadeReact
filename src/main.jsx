@@ -24,6 +24,8 @@ createRoot(document.getElementById('root')).render(
     < Footer
     titulo={"Texto"}
     desc={"lorem"}
+    ano={"2024"}
+    nomeEmpresa={"Corretora BlackDiamond"}
     />
   </StrictMode>,
 )
