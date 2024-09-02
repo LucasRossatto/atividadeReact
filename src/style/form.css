@@ -14,6 +14,10 @@
     border-radius: 6px;
 }
 
+.form-control h1{
+    padding-bottom: 18px ;
+}
+
 .form-control{
     display: flex;
     flex-direction: column;

@@ -22,10 +22,14 @@ createRoot(document.getElementById('root')).render(
     />
 
     < Footer
-    titulo={"Texto"}
-    desc={"lorem"}
+    titulo={"Saiba mais"}
+    desc={"Investa em territorio nacional e internacional"}
     ano={"2024"}
-    nomeEmpresa={"Corretora BlackDiamond"}
+    email={"investeNaBlack_corretora@gmail.com"}
+    telefone={"11 54531-9863"}
+    nomeEmpresa={"Corretora Black Diamond"}
+    Facebook={"Corretora Black Diamond"}
+    Instagram={"@CorretoraBlackDiamond"}
     />
   </StrictMode>,
 )
